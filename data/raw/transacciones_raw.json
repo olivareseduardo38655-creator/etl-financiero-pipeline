@@ -1,0 +1,4002 @@
+[
+    {
+        "transaccion_id":"TX000001",
+        "cliente_id":"C0013",
+        "producto_id":"P01",
+        "monto":-500.0,
+        "fecha_transaccion":"2024-01-01 00:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000002",
+        "cliente_id":"C0048",
+        "producto_id":"P01",
+        "monto":750.58,
+        "fecha_transaccion":"2024-01-01 01:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000003",
+        "cliente_id":"C0012",
+        "producto_id":"P03",
+        "monto":906.86,
+        "fecha_transaccion":"2024-01-01 02:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000004",
+        "cliente_id":"C0009",
+        "producto_id":"P01",
+        "monto":3609.11,
+        "fecha_transaccion":"2024-01-01 03:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000005",
+        "cliente_id":"C0087",
+        "producto_id":"P01",
+        "monto":219.91,
+        "fecha_transaccion":"2024-01-01 04:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000006",
+        "cliente_id":"C0040",
+        "producto_id":"P01",
+        "monto":940.71,
+        "fecha_transaccion":"2024-01-01 05:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000007",
+        "cliente_id":"C0019",
+        "producto_id":"P01",
+        "monto":91.43,
+        "fecha_transaccion":"2024-01-01 06:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000008",
+        "cliente_id":"C0087",
+        "producto_id":"P03",
+        "monto":1838.93,
+        "fecha_transaccion":"2024-01-01 07:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000009",
+        "cliente_id":"C0006",
+        "producto_id":"P03",
+        "monto":1403.66,
+        "fecha_transaccion":"2024-01-01 08:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000010",
+        "cliente_id":"C0002",
+        "producto_id":"P02",
+        "monto":4134.91,
+        "fecha_transaccion":"2024-01-01 09:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000011",
+        "cliente_id":"C0030",
+        "producto_id":"P02",
+        "monto":3406.61,
+        "fecha_transaccion":"2024-01-01 10:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000012",
+        "cliente_id":"C0074",
+        "producto_id":"P02",
+        "monto":3420.24,
+        "fecha_transaccion":"2024-01-01 11:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000013",
+        "cliente_id":"C0039",
+        "producto_id":"P03",
+        "monto":3590.58,
+        "fecha_transaccion":"2024-01-01 12:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000014",
+        "cliente_id":"C0018",
+        "producto_id":"P01",
+        "monto":1270.42,
+        "fecha_transaccion":"2024-01-01 13:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000015",
+        "cliente_id":"C0095",
+        "producto_id":"P03",
+        "monto":4121.95,
+        "fecha_transaccion":"2024-01-01 14:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000016",
+        "cliente_id":"C0031",
+        "producto_id":"P02",
+        "monto":2614.98,
+        "fecha_transaccion":"2024-01-01 15:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000017",
+        "cliente_id":"C0051",
+        "producto_id":"P03",
+        "monto":823.36,
+        "fecha_transaccion":"2024-01-01 16:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000018",
+        "cliente_id":"C0031",
+        "producto_id":"P01",
+        "monto":2362.9,
+        "fecha_transaccion":"2024-01-01 17:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000019",
+        "cliente_id":"C0048",
+        "producto_id":"P02",
+        "monto":1304.34,
+        "fecha_transaccion":"2024-01-01 18:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000020",
+        "cliente_id":"C0010",
+        "producto_id":"P03",
+        "monto":387.54,
+        "fecha_transaccion":"2024-01-01 19:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000021",
+        "cliente_id":"C0086",
+        "producto_id":"P01",
+        "monto":4320.61,
+        "fecha_transaccion":"2024-01-01 20:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000022",
+        "cliente_id":"C0050",
+        "producto_id":"P01",
+        "monto":2917.41,
+        "fecha_transaccion":"2024-01-01 21:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000023",
+        "cliente_id":"C0014",
+        "producto_id":"P02",
+        "monto":1965.19,
+        "fecha_transaccion":"2024-01-01 22:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000024",
+        "cliente_id":"C0010",
+        "producto_id":"P01",
+        "monto":4574.53,
+        "fecha_transaccion":"2024-01-01 23:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000025",
+        "cliente_id":"C0017",
+        "producto_id":"P01",
+        "monto":366.24,
+        "fecha_transaccion":"2024-01-02 00:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000026",
+        "cliente_id":"C0090",
+        "producto_id":"P01",
+        "monto":1920.34,
+        "fecha_transaccion":"2024-01-02 01:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000027",
+        "cliente_id":"C0086",
+        "producto_id":"P02",
+        "monto":1485.53,
+        "fecha_transaccion":"2024-01-02 02:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000028",
+        "cliente_id":"C0093",
+        "producto_id":"P02",
+        "monto":2942.49,
+        "fecha_transaccion":"2024-01-02 03:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000029",
+        "cliente_id":"C0009",
+        "producto_id":"P03",
+        "monto":1003.88,
+        "fecha_transaccion":"2024-01-02 04:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000030",
+        "cliente_id":"C0051",
+        "producto_id":"P02",
+        "monto":4742.34,
+        "fecha_transaccion":"2024-01-02 05:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000031",
+        "cliente_id":"C0003",
+        "producto_id":"P03",
+        "monto":4771.93,
+        "fecha_transaccion":"2024-01-02 06:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000032",
+        "cliente_id":"C0052",
+        "producto_id":"P03",
+        "monto":4086.24,
+        "fecha_transaccion":"2024-01-02 07:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000033",
+        "cliente_id":"C0006",
+        "producto_id":"P02",
+        "monto":1773.36,
+        "fecha_transaccion":"2024-01-02 08:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000034",
+        "cliente_id":"C0073",
+        "producto_id":"P03",
+        "monto":4863.63,
+        "fecha_transaccion":"2024-01-02 09:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000035",
+        "cliente_id":"C0054",
+        "producto_id":"P03",
+        "monto":2516.6,
+        "fecha_transaccion":"2024-01-02 10:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000036",
+        "cliente_id":"C0051",
+        "producto_id":"P03",
+        "monto":4702.78,
+        "fecha_transaccion":"2024-01-02 11:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000037",
+        "cliente_id":"C0075",
+        "producto_id":"P03",
+        "monto":2804.62,
+        "fecha_transaccion":"2024-01-02 12:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000038",
+        "cliente_id":"C0045",
+        "producto_id":"P01",
+        "monto":4158.52,
+        "fecha_transaccion":"2024-01-02 13:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000039",
+        "cliente_id":"C0062",
+        "producto_id":"P03",
+        "monto":3716.45,
+        "fecha_transaccion":"2024-01-02 14:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000040",
+        "cliente_id":"C0023",
+        "producto_id":"P02",
+        "monto":1292.65,
+        "fecha_transaccion":"2024-01-02 15:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000041",
+        "cliente_id":"C0059",
+        "producto_id":"P01",
+        "monto":890.5,
+        "fecha_transaccion":"2024-01-02 16:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000042",
+        "cliente_id":"C0071",
+        "producto_id":"P01",
+        "monto":1114.63,
+        "fecha_transaccion":"2024-01-02 17:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000043",
+        "cliente_id":"C0028",
+        "producto_id":"P03",
+        "monto":4891.91,
+        "fecha_transaccion":"2024-01-02 18:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000044",
+        "cliente_id":"C0084",
+        "producto_id":"P02",
+        "monto":2138.32,
+        "fecha_transaccion":"2024-01-02 19:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000045",
+        "cliente_id":"C0007",
+        "producto_id":"P01",
+        "monto":1298.67,
+        "fecha_transaccion":"2024-01-02 20:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000046",
+        "cliente_id":"C0053",
+        "producto_id":"P03",
+        "monto":4591.33,
+        "fecha_transaccion":"2024-01-02 21:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000047",
+        "cliente_id":"C0002",
+        "producto_id":"P01",
+        "monto":769.69,
+        "fecha_transaccion":"2024-01-02 22:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000048",
+        "cliente_id":"C0029",
+        "producto_id":"P01",
+        "monto":2754.41,
+        "fecha_transaccion":"2024-01-02 23:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000049",
+        "cliente_id":"C0035",
+        "producto_id":"P03",
+        "monto":131.73,
+        "fecha_transaccion":"2024-01-03 00:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000050",
+        "cliente_id":"C0042",
+        "producto_id":"P01",
+        "monto":2777.46,
+        "fecha_transaccion":"2024-01-03 01:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000051",
+        "cliente_id":"C0089",
+        "producto_id":"P01",
+        "monto":3591.84,
+        "fecha_transaccion":"2024-01-03 02:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000052",
+        "cliente_id":"C0073",
+        "producto_id":"P03",
+        "monto":2504.55,
+        "fecha_transaccion":"2024-01-03 03:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000053",
+        "cliente_id":"C0080",
+        "producto_id":"P02",
+        "monto":3221.38,
+        "fecha_transaccion":"2024-01-03 04:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000054",
+        "cliente_id":"C0043",
+        "producto_id":"P01",
+        "monto":2370.57,
+        "fecha_transaccion":"2024-01-03 05:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000055",
+        "cliente_id":"C0047",
+        "producto_id":"P01",
+        "monto":4971.49,
+        "fecha_transaccion":"2024-01-03 06:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000056",
+        "cliente_id":"C0040",
+        "producto_id":"P02",
+        "monto":4866.37,
+        "fecha_transaccion":"2024-01-03 07:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000057",
+        "cliente_id":"C0049",
+        "producto_id":"P02",
+        "monto":1121.26,
+        "fecha_transaccion":"2024-01-03 08:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000058",
+        "cliente_id":"C0016",
+        "producto_id":"P01",
+        "monto":2805.1,
+        "fecha_transaccion":"2024-01-03 09:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000059",
+        "cliente_id":"C0038",
+        "producto_id":"P03",
+        "monto":961.19,
+        "fecha_transaccion":"2024-01-03 10:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000060",
+        "cliente_id":"C0055",
+        "producto_id":"P03",
+        "monto":499.3,
+        "fecha_transaccion":"2024-01-03 11:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000061",
+        "cliente_id":"C0061",
+        "producto_id":"P02",
+        "monto":3757.69,
+        "fecha_transaccion":"2024-01-03 12:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000062",
+        "cliente_id":"C0035",
+        "producto_id":"P02",
+        "monto":553.1,
+        "fecha_transaccion":"2024-01-03 13:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000063",
+        "cliente_id":"C0054",
+        "producto_id":"P01",
+        "monto":930.54,
+        "fecha_transaccion":"2024-01-03 14:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000064",
+        "cliente_id":"C0015",
+        "producto_id":"P03",
+        "monto":1425.29,
+        "fecha_transaccion":"2024-01-03 15:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000065",
+        "cliente_id":"C0024",
+        "producto_id":"P03",
+        "monto":2538.81,
+        "fecha_transaccion":"2024-01-03 16:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000066",
+        "cliente_id":"C0060",
+        "producto_id":"P03",
+        "monto":224.58,
+        "fecha_transaccion":"2024-01-03 17:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000067",
+        "cliente_id":"C0020",
+        "producto_id":"P03",
+        "monto":2164.83,
+        "fecha_transaccion":"2024-01-03 18:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000068",
+        "cliente_id":"C0050",
+        "producto_id":"P01",
+        "monto":2593.03,
+        "fecha_transaccion":"2024-01-03 19:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000069",
+        "cliente_id":"C0034",
+        "producto_id":"P03",
+        "monto":3713.82,
+        "fecha_transaccion":"2024-01-03 20:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000070",
+        "cliente_id":"C0005",
+        "producto_id":"P02",
+        "monto":4820.7,
+        "fecha_transaccion":"2024-01-03 21:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000071",
+        "cliente_id":"C0076",
+        "producto_id":"P03",
+        "monto":4432.8,
+        "fecha_transaccion":"2024-01-03 22:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000072",
+        "cliente_id":"C0007",
+        "producto_id":"P01",
+        "monto":2123.28,
+        "fecha_transaccion":"2024-01-03 23:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000073",
+        "cliente_id":"C0070",
+        "producto_id":"P03",
+        "monto":3154.13,
+        "fecha_transaccion":"2024-01-04 00:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000074",
+        "cliente_id":"C0022",
+        "producto_id":"P01",
+        "monto":619.44,
+        "fecha_transaccion":"2024-01-04 01:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000075",
+        "cliente_id":"C0099",
+        "producto_id":"P02",
+        "monto":2796.98,
+        "fecha_transaccion":"2024-01-04 02:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000076",
+        "cliente_id":"C0083",
+        "producto_id":"P03",
+        "monto":1071.21,
+        "fecha_transaccion":"2024-01-04 03:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000077",
+        "cliente_id":"C0004",
+        "producto_id":"P01",
+        "monto":684.12,
+        "fecha_transaccion":"2024-01-04 04:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000078",
+        "cliente_id":"C0034",
+        "producto_id":"P03",
+        "monto":3922.12,
+        "fecha_transaccion":"2024-01-04 05:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000079",
+        "cliente_id":"C0067",
+        "producto_id":"P02",
+        "monto":886.64,
+        "fecha_transaccion":"2024-01-04 06:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000080",
+        "cliente_id":"C0034",
+        "producto_id":"P01",
+        "monto":3584.06,
+        "fecha_transaccion":"2024-01-04 07:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000081",
+        "cliente_id":"C0071",
+        "producto_id":"P01",
+        "monto":2365.95,
+        "fecha_transaccion":"2024-01-04 08:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000082",
+        "cliente_id":"C0006",
+        "producto_id":"P01",
+        "monto":449.23,
+        "fecha_transaccion":"2024-01-04 09:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000083",
+        "cliente_id":"C0096",
+        "producto_id":"P02",
+        "monto":2294.0,
+        "fecha_transaccion":"2024-01-04 10:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000084",
+        "cliente_id":"C0085",
+        "producto_id":"P03",
+        "monto":579.22,
+        "fecha_transaccion":"2024-01-04 11:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000085",
+        "cliente_id":"C0092",
+        "producto_id":"P03",
+        "monto":1757.02,
+        "fecha_transaccion":"2024-01-04 12:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000086",
+        "cliente_id":"C0092",
+        "producto_id":"P03",
+        "monto":4173.93,
+        "fecha_transaccion":"2024-01-04 13:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000087",
+        "cliente_id":"C0069",
+        "producto_id":"P02",
+        "monto":1148.24,
+        "fecha_transaccion":"2024-01-04 14:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000088",
+        "cliente_id":"C0026",
+        "producto_id":"P02",
+        "monto":4535.66,
+        "fecha_transaccion":"2024-01-04 15:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000089",
+        "cliente_id":"C0016",
+        "producto_id":"P02",
+        "monto":1286.23,
+        "fecha_transaccion":"2024-01-04 16:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000090",
+        "cliente_id":"C0096",
+        "producto_id":"P02",
+        "monto":1542.65,
+        "fecha_transaccion":"2024-01-04 17:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000091",
+        "cliente_id":"C0040",
+        "producto_id":"P01",
+        "monto":3391.03,
+        "fecha_transaccion":"2024-01-04 18:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000092",
+        "cliente_id":"C0037",
+        "producto_id":"P02",
+        "monto":750.39,
+        "fecha_transaccion":"2024-01-04 19:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000093",
+        "cliente_id":"C0008",
+        "producto_id":"P01",
+        "monto":2677.83,
+        "fecha_transaccion":"2024-01-04 20:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000094",
+        "cliente_id":"C0096",
+        "producto_id":"P03",
+        "monto":1467.68,
+        "fecha_transaccion":"2024-01-04 21:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000095",
+        "cliente_id":"C0019",
+        "producto_id":"P02",
+        "monto":513.51,
+        "fecha_transaccion":"2024-01-04 22:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000096",
+        "cliente_id":"C0040",
+        "producto_id":"P01",
+        "monto":4541.56,
+        "fecha_transaccion":"2024-01-04 23:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000097",
+        "cliente_id":"C0048",
+        "producto_id":"P03",
+        "monto":3790.44,
+        "fecha_transaccion":"2024-01-05 00:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000098",
+        "cliente_id":"C0076",
+        "producto_id":"P02",
+        "monto":2437.96,
+        "fecha_transaccion":"2024-01-05 01:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000099",
+        "cliente_id":"C0066",
+        "producto_id":"P02",
+        "monto":2291.93,
+        "fecha_transaccion":"2024-01-05 02:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000100",
+        "cliente_id":"C0093",
+        "producto_id":"P03",
+        "monto":1825.98,
+        "fecha_transaccion":"2024-01-05 03:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000101",
+        "cliente_id":"C0074",
+        "producto_id":"P03",
+        "monto":2363.47,
+        "fecha_transaccion":"2024-01-05 04:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000102",
+        "cliente_id":"C0091",
+        "producto_id":"P03",
+        "monto":1504.72,
+        "fecha_transaccion":"2024-01-05 05:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000103",
+        "cliente_id":"C0033",
+        "producto_id":"P03",
+        "monto":4469.72,
+        "fecha_transaccion":"2024-01-05 06:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000104",
+        "cliente_id":"C0006",
+        "producto_id":"P03",
+        "monto":530.59,
+        "fecha_transaccion":"2024-01-05 07:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000105",
+        "cliente_id":"C0042",
+        "producto_id":"P02",
+        "monto":629.42,
+        "fecha_transaccion":"2024-01-05 08:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000106",
+        "cliente_id":"C0009",
+        "producto_id":"P01",
+        "monto":3253.27,
+        "fecha_transaccion":"2024-01-05 09:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000107",
+        "cliente_id":"C0060",
+        "producto_id":"P02",
+        "monto":879.48,
+        "fecha_transaccion":"2024-01-05 10:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000108",
+        "cliente_id":"C0072",
+        "producto_id":"P03",
+        "monto":4855.08,
+        "fecha_transaccion":"2024-01-05 11:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000109",
+        "cliente_id":"C0063",
+        "producto_id":"P03",
+        "monto":4630.07,
+        "fecha_transaccion":"2024-01-05 12:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000110",
+        "cliente_id":"C0008",
+        "producto_id":"P01",
+        "monto":3834.95,
+        "fecha_transaccion":"2024-01-05 13:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000111",
+        "cliente_id":"C0044",
+        "producto_id":"P02",
+        "monto":2130.94,
+        "fecha_transaccion":"2024-01-05 14:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000112",
+        "cliente_id":"C0007",
+        "producto_id":"P03",
+        "monto":4994.37,
+        "fecha_transaccion":"2024-01-05 15:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000113",
+        "cliente_id":"C0035",
+        "producto_id":"P03",
+        "monto":3554.59,
+        "fecha_transaccion":"2024-01-05 16:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000114",
+        "cliente_id":"C0046",
+        "producto_id":"P02",
+        "monto":3367.35,
+        "fecha_transaccion":"2024-01-05 17:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000115",
+        "cliente_id":"C0036",
+        "producto_id":"P02",
+        "monto":2738.25,
+        "fecha_transaccion":"2024-01-05 18:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000116",
+        "cliente_id":"C0024",
+        "producto_id":"P03",
+        "monto":30.42,
+        "fecha_transaccion":"2024-01-05 19:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000117",
+        "cliente_id":"C0028",
+        "producto_id":"P01",
+        "monto":2599.91,
+        "fecha_transaccion":"2024-01-05 20:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000118",
+        "cliente_id":"C0036",
+        "producto_id":"P03",
+        "monto":1851.21,
+        "fecha_transaccion":"2024-01-05 21:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000119",
+        "cliente_id":"C0092",
+        "producto_id":"P03",
+        "monto":2403.4,
+        "fecha_transaccion":"2024-01-05 22:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000120",
+        "cliente_id":"C0022",
+        "producto_id":"P02",
+        "monto":3308.99,
+        "fecha_transaccion":"2024-01-05 23:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000121",
+        "cliente_id":"C0021",
+        "producto_id":"P02",
+        "monto":3138.14,
+        "fecha_transaccion":"2024-01-06 00:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000122",
+        "cliente_id":"C0069",
+        "producto_id":"P01",
+        "monto":3414.08,
+        "fecha_transaccion":"2024-01-06 01:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000123",
+        "cliente_id":"C0093",
+        "producto_id":"P02",
+        "monto":3982.41,
+        "fecha_transaccion":"2024-01-06 02:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000124",
+        "cliente_id":"C0022",
+        "producto_id":"P01",
+        "monto":4310.88,
+        "fecha_transaccion":"2024-01-06 03:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000125",
+        "cliente_id":"C0063",
+        "producto_id":"P03",
+        "monto":4919.36,
+        "fecha_transaccion":"2024-01-06 04:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000126",
+        "cliente_id":"C0074",
+        "producto_id":"P02",
+        "monto":2982.65,
+        "fecha_transaccion":"2024-01-06 05:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000127",
+        "cliente_id":"C0030",
+        "producto_id":"P03",
+        "monto":1689.0,
+        "fecha_transaccion":"2024-01-06 06:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000128",
+        "cliente_id":"C0027",
+        "producto_id":"P01",
+        "monto":3654.65,
+        "fecha_transaccion":"2024-01-06 07:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000129",
+        "cliente_id":"C0012",
+        "producto_id":"P02",
+        "monto":4676.48,
+        "fecha_transaccion":"2024-01-06 08:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000130",
+        "cliente_id":"C0044",
+        "producto_id":"P02",
+        "monto":3875.18,
+        "fecha_transaccion":"2024-01-06 09:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000131",
+        "cliente_id":"C0065",
+        "producto_id":"P03",
+        "monto":3605.56,
+        "fecha_transaccion":"2024-01-06 10:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000132",
+        "cliente_id":"C0087",
+        "producto_id":"P02",
+        "monto":4814.54,
+        "fecha_transaccion":"2024-01-06 11:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000133",
+        "cliente_id":"C0039",
+        "producto_id":"P01",
+        "monto":2092.84,
+        "fecha_transaccion":"2024-01-06 12:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000134",
+        "cliente_id":"C0076",
+        "producto_id":"P03",
+        "monto":699.34,
+        "fecha_transaccion":"2024-01-06 13:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000135",
+        "cliente_id":"C0049",
+        "producto_id":"P02",
+        "monto":3054.51,
+        "fecha_transaccion":"2024-01-06 14:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000136",
+        "cliente_id":"C0075",
+        "producto_id":"P03",
+        "monto":3750.03,
+        "fecha_transaccion":"2024-01-06 15:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000137",
+        "cliente_id":"C0054",
+        "producto_id":"P01",
+        "monto":1211.3,
+        "fecha_transaccion":"2024-01-06 16:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000138",
+        "cliente_id":"C0027",
+        "producto_id":"P03",
+        "monto":4528.65,
+        "fecha_transaccion":"2024-01-06 17:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000139",
+        "cliente_id":"C0074",
+        "producto_id":"P01",
+        "monto":1499.42,
+        "fecha_transaccion":"2024-01-06 18:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000140",
+        "cliente_id":"C0078",
+        "producto_id":"P02",
+        "monto":2802.65,
+        "fecha_transaccion":"2024-01-06 19:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000141",
+        "cliente_id":"C0091",
+        "producto_id":"P02",
+        "monto":1501.57,
+        "fecha_transaccion":"2024-01-06 20:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000142",
+        "cliente_id":"C0069",
+        "producto_id":"P03",
+        "monto":2088.0,
+        "fecha_transaccion":"2024-01-06 21:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000143",
+        "cliente_id":"C0085",
+        "producto_id":"P02",
+        "monto":2672.1,
+        "fecha_transaccion":"2024-01-06 22:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000144",
+        "cliente_id":"C0019",
+        "producto_id":"P03",
+        "monto":3492.79,
+        "fecha_transaccion":"2024-01-06 23:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000145",
+        "cliente_id":"C0067",
+        "producto_id":"P03",
+        "monto":2703.37,
+        "fecha_transaccion":"2024-01-07 00:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000146",
+        "cliente_id":"C0077",
+        "producto_id":"P02",
+        "monto":4019.89,
+        "fecha_transaccion":"2024-01-07 01:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000147",
+        "cliente_id":"C0013",
+        "producto_id":"P03",
+        "monto":2471.2,
+        "fecha_transaccion":"2024-01-07 02:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000148",
+        "cliente_id":"C0066",
+        "producto_id":"P03",
+        "monto":4200.82,
+        "fecha_transaccion":"2024-01-07 03:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000149",
+        "cliente_id":"C0086",
+        "producto_id":"P03",
+        "monto":2869.85,
+        "fecha_transaccion":"2024-01-07 04:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000150",
+        "cliente_id":"C0008",
+        "producto_id":"P03",
+        "monto":1928.45,
+        "fecha_transaccion":"2024-01-07 05:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000151",
+        "cliente_id":"C0051",
+        "producto_id":"P01",
+        "monto":2539.95,
+        "fecha_transaccion":"2024-01-07 06:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000152",
+        "cliente_id":"C0100",
+        "producto_id":"P02",
+        "monto":4373.22,
+        "fecha_transaccion":"2024-01-07 07:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000153",
+        "cliente_id":"C0026",
+        "producto_id":"P01",
+        "monto":223.74,
+        "fecha_transaccion":"2024-01-07 08:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000154",
+        "cliente_id":"C0032",
+        "producto_id":"P03",
+        "monto":3523.72,
+        "fecha_transaccion":"2024-01-07 09:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000155",
+        "cliente_id":"C0069",
+        "producto_id":"P02",
+        "monto":3937.08,
+        "fecha_transaccion":"2024-01-07 10:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000156",
+        "cliente_id":"C0052",
+        "producto_id":"P02",
+        "monto":3473.9,
+        "fecha_transaccion":"2024-01-07 11:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000157",
+        "cliente_id":"C0046",
+        "producto_id":"P01",
+        "monto":2256.91,
+        "fecha_transaccion":"2024-01-07 12:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000158",
+        "cliente_id":"C0079",
+        "producto_id":"P02",
+        "monto":2304.29,
+        "fecha_transaccion":"2024-01-07 13:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000159",
+        "cliente_id":"C0046",
+        "producto_id":"P01",
+        "monto":220.13,
+        "fecha_transaccion":"2024-01-07 14:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000160",
+        "cliente_id":"C0063",
+        "producto_id":"P02",
+        "monto":4686.12,
+        "fecha_transaccion":"2024-01-07 15:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000161",
+        "cliente_id":"C0057",
+        "producto_id":"P02",
+        "monto":799.13,
+        "fecha_transaccion":"2024-01-07 16:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000162",
+        "cliente_id":"C0035",
+        "producto_id":"P02",
+        "monto":3869.45,
+        "fecha_transaccion":"2024-01-07 17:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000163",
+        "cliente_id":"C0003",
+        "producto_id":"P02",
+        "monto":3877.96,
+        "fecha_transaccion":"2024-01-07 18:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000164",
+        "cliente_id":"C0071",
+        "producto_id":"P01",
+        "monto":2628.09,
+        "fecha_transaccion":"2024-01-07 19:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000165",
+        "cliente_id":"C0071",
+        "producto_id":"P03",
+        "monto":3999.42,
+        "fecha_transaccion":"2024-01-07 20:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000166",
+        "cliente_id":"C0047",
+        "producto_id":"P02",
+        "monto":3625.65,
+        "fecha_transaccion":"2024-01-07 21:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000167",
+        "cliente_id":"C0094",
+        "producto_id":"P01",
+        "monto":4255.42,
+        "fecha_transaccion":"2024-01-07 22:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000168",
+        "cliente_id":"C0080",
+        "producto_id":"P03",
+        "monto":2780.03,
+        "fecha_transaccion":"2024-01-07 23:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000169",
+        "cliente_id":"C0070",
+        "producto_id":"P02",
+        "monto":1215.54,
+        "fecha_transaccion":"2024-01-08 00:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000170",
+        "cliente_id":"C0037",
+        "producto_id":"P02",
+        "monto":3657.85,
+        "fecha_transaccion":"2024-01-08 01:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000171",
+        "cliente_id":"C0032",
+        "producto_id":"P02",
+        "monto":4253.91,
+        "fecha_transaccion":"2024-01-08 02:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000172",
+        "cliente_id":"C0063",
+        "producto_id":"P01",
+        "monto":2263.1,
+        "fecha_transaccion":"2024-01-08 03:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000173",
+        "cliente_id":"C0025",
+        "producto_id":"P01",
+        "monto":723.65,
+        "fecha_transaccion":"2024-01-08 04:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000174",
+        "cliente_id":"C0074",
+        "producto_id":"P03",
+        "monto":3154.92,
+        "fecha_transaccion":"2024-01-08 05:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000175",
+        "cliente_id":"C0066",
+        "producto_id":"P03",
+        "monto":4068.18,
+        "fecha_transaccion":"2024-01-08 06:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000176",
+        "cliente_id":"C0039",
+        "producto_id":"P02",
+        "monto":1185.58,
+        "fecha_transaccion":"2024-01-08 07:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000177",
+        "cliente_id":"C0074",
+        "producto_id":"P01",
+        "monto":3624.18,
+        "fecha_transaccion":"2024-01-08 08:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000178",
+        "cliente_id":"C0080",
+        "producto_id":"P03",
+        "monto":2322.14,
+        "fecha_transaccion":"2024-01-08 09:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000179",
+        "cliente_id":"C0024",
+        "producto_id":"P02",
+        "monto":1678.02,
+        "fecha_transaccion":"2024-01-08 10:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000180",
+        "cliente_id":"C0065",
+        "producto_id":"P02",
+        "monto":296.22,
+        "fecha_transaccion":"2024-01-08 11:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000181",
+        "cliente_id":"C0019",
+        "producto_id":"P02",
+        "monto":1187.52,
+        "fecha_transaccion":"2024-01-08 12:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000182",
+        "cliente_id":"C0016",
+        "producto_id":"P03",
+        "monto":1913.08,
+        "fecha_transaccion":"2024-01-08 13:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000183",
+        "cliente_id":"C0070",
+        "producto_id":"P02",
+        "monto":3621.15,
+        "fecha_transaccion":"2024-01-08 14:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000184",
+        "cliente_id":"C0028",
+        "producto_id":"P03",
+        "monto":3917.52,
+        "fecha_transaccion":"2024-01-08 15:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000185",
+        "cliente_id":"C0054",
+        "producto_id":"P02",
+        "monto":4728.9,
+        "fecha_transaccion":"2024-01-08 16:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000186",
+        "cliente_id":"C0043",
+        "producto_id":"P02",
+        "monto":4137.17,
+        "fecha_transaccion":"2024-01-08 17:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000187",
+        "cliente_id":"C0008",
+        "producto_id":"P02",
+        "monto":2702.4,
+        "fecha_transaccion":"2024-01-08 18:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000188",
+        "cliente_id":"C0029",
+        "producto_id":"P03",
+        "monto":3165.39,
+        "fecha_transaccion":"2024-01-08 19:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000189",
+        "cliente_id":"C0004",
+        "producto_id":"P01",
+        "monto":4899.36,
+        "fecha_transaccion":"2024-01-08 20:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000190",
+        "cliente_id":"C0072",
+        "producto_id":"P03",
+        "monto":3871.93,
+        "fecha_transaccion":"2024-01-08 21:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000191",
+        "cliente_id":"C0006",
+        "producto_id":"P02",
+        "monto":3557.16,
+        "fecha_transaccion":"2024-01-08 22:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000192",
+        "cliente_id":"C0098",
+        "producto_id":"P01",
+        "monto":454.52,
+        "fecha_transaccion":"2024-01-08 23:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000193",
+        "cliente_id":"C0065",
+        "producto_id":"P03",
+        "monto":4198.51,
+        "fecha_transaccion":"2024-01-09 00:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000194",
+        "cliente_id":"C0015",
+        "producto_id":"P03",
+        "monto":2505.91,
+        "fecha_transaccion":"2024-01-09 01:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000195",
+        "cliente_id":"C0043",
+        "producto_id":"P03",
+        "monto":2134.25,
+        "fecha_transaccion":"2024-01-09 02:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000196",
+        "cliente_id":"C0080",
+        "producto_id":"P03",
+        "monto":1336.99,
+        "fecha_transaccion":"2024-01-09 03:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000197",
+        "cliente_id":"C0033",
+        "producto_id":"P01",
+        "monto":2396.2,
+        "fecha_transaccion":"2024-01-09 04:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000198",
+        "cliente_id":"C0069",
+        "producto_id":"P02",
+        "monto":2292.23,
+        "fecha_transaccion":"2024-01-09 05:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000199",
+        "cliente_id":"C0043",
+        "producto_id":"P01",
+        "monto":182.86,
+        "fecha_transaccion":"2024-01-09 06:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000200",
+        "cliente_id":"C0023",
+        "producto_id":"P03",
+        "monto":3809.61,
+        "fecha_transaccion":"2024-01-09 07:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000201",
+        "cliente_id":"C0008",
+        "producto_id":"P01",
+        "monto":2372.73,
+        "fecha_transaccion":"2024-01-09 08:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000202",
+        "cliente_id":"C0060",
+        "producto_id":"P03",
+        "monto":1822.59,
+        "fecha_transaccion":"2024-01-09 09:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000203",
+        "cliente_id":"C0093",
+        "producto_id":"P03",
+        "monto":757.76,
+        "fecha_transaccion":"2024-01-09 10:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000204",
+        "cliente_id":"C0080",
+        "producto_id":"P03",
+        "monto":1937.88,
+        "fecha_transaccion":"2024-01-09 11:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000205",
+        "cliente_id":"C0013",
+        "producto_id":"P01",
+        "monto":4133.53,
+        "fecha_transaccion":"2024-01-09 12:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000206",
+        "cliente_id":"C0088",
+        "producto_id":"P02",
+        "monto":1680.95,
+        "fecha_transaccion":"2024-01-09 13:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000207",
+        "cliente_id":"C0098",
+        "producto_id":"P03",
+        "monto":4493.31,
+        "fecha_transaccion":"2024-01-09 14:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000208",
+        "cliente_id":"C0039",
+        "producto_id":"P03",
+        "monto":3004.47,
+        "fecha_transaccion":"2024-01-09 15:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000209",
+        "cliente_id":"C0058",
+        "producto_id":"P03",
+        "monto":4714.7,
+        "fecha_transaccion":"2024-01-09 16:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000210",
+        "cliente_id":"C0089",
+        "producto_id":"P02",
+        "monto":2925.26,
+        "fecha_transaccion":"2024-01-09 17:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000211",
+        "cliente_id":"C0013",
+        "producto_id":"P02",
+        "monto":312.32,
+        "fecha_transaccion":"2024-01-09 18:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000212",
+        "cliente_id":"C0053",
+        "producto_id":"P03",
+        "monto":518.7,
+        "fecha_transaccion":"2024-01-09 19:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000213",
+        "cliente_id":"C0004",
+        "producto_id":"P01",
+        "monto":2190.2,
+        "fecha_transaccion":"2024-01-09 20:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000214",
+        "cliente_id":"C0060",
+        "producto_id":"P01",
+        "monto":2450.7,
+        "fecha_transaccion":"2024-01-09 21:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000215",
+        "cliente_id":"C0040",
+        "producto_id":"P03",
+        "monto":2259.54,
+        "fecha_transaccion":"2024-01-09 22:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000216",
+        "cliente_id":"C0059",
+        "producto_id":"P02",
+        "monto":4950.83,
+        "fecha_transaccion":"2024-01-09 23:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000217",
+        "cliente_id":"C0014",
+        "producto_id":"P01",
+        "monto":3223.52,
+        "fecha_transaccion":"2024-01-10 00:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000218",
+        "cliente_id":"C0049",
+        "producto_id":"P02",
+        "monto":3258.13,
+        "fecha_transaccion":"2024-01-10 01:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000219",
+        "cliente_id":"C0013",
+        "producto_id":"P02",
+        "monto":3706.49,
+        "fecha_transaccion":"2024-01-10 02:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000220",
+        "cliente_id":"C0025",
+        "producto_id":"P03",
+        "monto":2441.36,
+        "fecha_transaccion":"2024-01-10 03:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000221",
+        "cliente_id":"C0017",
+        "producto_id":"P03",
+        "monto":3770.32,
+        "fecha_transaccion":"2024-01-10 04:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000222",
+        "cliente_id":"C0013",
+        "producto_id":"P02",
+        "monto":3823.48,
+        "fecha_transaccion":"2024-01-10 05:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000223",
+        "cliente_id":"C0047",
+        "producto_id":"P01",
+        "monto":1399.88,
+        "fecha_transaccion":"2024-01-10 06:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000224",
+        "cliente_id":"C0082",
+        "producto_id":"P02",
+        "monto":1979.48,
+        "fecha_transaccion":"2024-01-10 07:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000225",
+        "cliente_id":"C0081",
+        "producto_id":"P03",
+        "monto":1298.52,
+        "fecha_transaccion":"2024-01-10 08:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000226",
+        "cliente_id":"C0014",
+        "producto_id":"P03",
+        "monto":2453.09,
+        "fecha_transaccion":"2024-01-10 09:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000227",
+        "cliente_id":"C0090",
+        "producto_id":"P03",
+        "monto":4775.61,
+        "fecha_transaccion":"2024-01-10 10:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000228",
+        "cliente_id":"C0037",
+        "producto_id":"P03",
+        "monto":1587.37,
+        "fecha_transaccion":"2024-01-10 11:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000229",
+        "cliente_id":"C0016",
+        "producto_id":"P02",
+        "monto":1707.38,
+        "fecha_transaccion":"2024-01-10 12:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000230",
+        "cliente_id":"C0098",
+        "producto_id":"P01",
+        "monto":450.71,
+        "fecha_transaccion":"2024-01-10 13:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000231",
+        "cliente_id":"C0035",
+        "producto_id":"P01",
+        "monto":753.33,
+        "fecha_transaccion":"2024-01-10 14:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000232",
+        "cliente_id":"C0098",
+        "producto_id":"P01",
+        "monto":3514.39,
+        "fecha_transaccion":"2024-01-10 15:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000233",
+        "cliente_id":"C0086",
+        "producto_id":"P01",
+        "monto":4884.91,
+        "fecha_transaccion":"2024-01-10 16:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000234",
+        "cliente_id":"C0093",
+        "producto_id":"P02",
+        "monto":342.79,
+        "fecha_transaccion":"2024-01-10 17:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000235",
+        "cliente_id":"C0003",
+        "producto_id":"P02",
+        "monto":4193.06,
+        "fecha_transaccion":"2024-01-10 18:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000236",
+        "cliente_id":"C0050",
+        "producto_id":"P01",
+        "monto":1342.23,
+        "fecha_transaccion":"2024-01-10 19:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000237",
+        "cliente_id":"C0003",
+        "producto_id":"P03",
+        "monto":3321.68,
+        "fecha_transaccion":"2024-01-10 20:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000238",
+        "cliente_id":"C0064",
+        "producto_id":"P02",
+        "monto":1261.2,
+        "fecha_transaccion":"2024-01-10 21:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000239",
+        "cliente_id":"C0092",
+        "producto_id":"P03",
+        "monto":3106.06,
+        "fecha_transaccion":"2024-01-10 22:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000240",
+        "cliente_id":"C0037",
+        "producto_id":"P02",
+        "monto":173.95,
+        "fecha_transaccion":"2024-01-10 23:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000241",
+        "cliente_id":"C0006",
+        "producto_id":"P01",
+        "monto":3577.14,
+        "fecha_transaccion":"2024-01-11 00:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000242",
+        "cliente_id":"C0026",
+        "producto_id":"P02",
+        "monto":2822.22,
+        "fecha_transaccion":"2024-01-11 01:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000243",
+        "cliente_id":"C0074",
+        "producto_id":"P03",
+        "monto":3978.27,
+        "fecha_transaccion":"2024-01-11 02:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000244",
+        "cliente_id":"C0036",
+        "producto_id":"P01",
+        "monto":4710.61,
+        "fecha_transaccion":"2024-01-11 03:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000245",
+        "cliente_id":"C0036",
+        "producto_id":"P01",
+        "monto":4370.05,
+        "fecha_transaccion":"2024-01-11 04:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000246",
+        "cliente_id":"C0040",
+        "producto_id":"P03",
+        "monto":136.14,
+        "fecha_transaccion":"2024-01-11 05:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000247",
+        "cliente_id":"C0038",
+        "producto_id":"P02",
+        "monto":487.66,
+        "fecha_transaccion":"2024-01-11 06:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000248",
+        "cliente_id":"C0037",
+        "producto_id":"P01",
+        "monto":1793.15,
+        "fecha_transaccion":"2024-01-11 07:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000249",
+        "cliente_id":"C0080",
+        "producto_id":"P03",
+        "monto":197.31,
+        "fecha_transaccion":"2024-01-11 08:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000250",
+        "cliente_id":"C0094",
+        "producto_id":"P02",
+        "monto":3578.01,
+        "fecha_transaccion":"2024-01-11 09:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000251",
+        "cliente_id":"C0061",
+        "producto_id":"P01",
+        "monto":1063.48,
+        "fecha_transaccion":"2024-01-11 10:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000252",
+        "cliente_id":"C0038",
+        "producto_id":"P03",
+        "monto":3188.83,
+        "fecha_transaccion":"2024-01-11 11:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000253",
+        "cliente_id":"C0086",
+        "producto_id":"P01",
+        "monto":1150.73,
+        "fecha_transaccion":"2024-01-11 12:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000254",
+        "cliente_id":"C0049",
+        "producto_id":"P02",
+        "monto":1733.8,
+        "fecha_transaccion":"2024-01-11 13:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000255",
+        "cliente_id":"C0062",
+        "producto_id":"P01",
+        "monto":2181.85,
+        "fecha_transaccion":"2024-01-11 14:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000256",
+        "cliente_id":"C0081",
+        "producto_id":"P01",
+        "monto":2196.14,
+        "fecha_transaccion":"2024-01-11 15:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000257",
+        "cliente_id":"C0006",
+        "producto_id":"P03",
+        "monto":4009.87,
+        "fecha_transaccion":"2024-01-11 16:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000258",
+        "cliente_id":"C0054",
+        "producto_id":"P02",
+        "monto":2208.8,
+        "fecha_transaccion":"2024-01-11 17:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000259",
+        "cliente_id":"C0006",
+        "producto_id":"P02",
+        "monto":1078.89,
+        "fecha_transaccion":"2024-01-11 18:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000260",
+        "cliente_id":"C0073",
+        "producto_id":"P01",
+        "monto":2482.78,
+        "fecha_transaccion":"2024-01-11 19:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000261",
+        "cliente_id":"C0088",
+        "producto_id":"P03",
+        "monto":4402.77,
+        "fecha_transaccion":"2024-01-11 20:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000262",
+        "cliente_id":"C0042",
+        "producto_id":"P03",
+        "monto":1084.71,
+        "fecha_transaccion":"2024-01-11 21:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000263",
+        "cliente_id":"C0079",
+        "producto_id":"P01",
+        "monto":2148.4,
+        "fecha_transaccion":"2024-01-11 22:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000264",
+        "cliente_id":"C0028",
+        "producto_id":"P01",
+        "monto":3753.14,
+        "fecha_transaccion":"2024-01-11 23:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000265",
+        "cliente_id":"C0079",
+        "producto_id":"P03",
+        "monto":4229.93,
+        "fecha_transaccion":"2024-01-12 00:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000266",
+        "cliente_id":"C0020",
+        "producto_id":"P02",
+        "monto":318.36,
+        "fecha_transaccion":"2024-01-12 01:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000267",
+        "cliente_id":"C0049",
+        "producto_id":"P03",
+        "monto":1402.82,
+        "fecha_transaccion":"2024-01-12 02:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000268",
+        "cliente_id":"C0038",
+        "producto_id":"P02",
+        "monto":653.92,
+        "fecha_transaccion":"2024-01-12 03:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000269",
+        "cliente_id":"C0100",
+        "producto_id":"P03",
+        "monto":603.73,
+        "fecha_transaccion":"2024-01-12 04:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000270",
+        "cliente_id":"C0010",
+        "producto_id":"P02",
+        "monto":351.31,
+        "fecha_transaccion":"2024-01-12 05:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000271",
+        "cliente_id":"C0084",
+        "producto_id":"P03",
+        "monto":2733.94,
+        "fecha_transaccion":"2024-01-12 06:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000272",
+        "cliente_id":"C0036",
+        "producto_id":"P02",
+        "monto":4902.67,
+        "fecha_transaccion":"2024-01-12 07:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000273",
+        "cliente_id":"C0052",
+        "producto_id":"P02",
+        "monto":1059.87,
+        "fecha_transaccion":"2024-01-12 08:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000274",
+        "cliente_id":"C0053",
+        "producto_id":"P02",
+        "monto":1490.56,
+        "fecha_transaccion":"2024-01-12 09:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000275",
+        "cliente_id":"C0052",
+        "producto_id":"P01",
+        "monto":1414.35,
+        "fecha_transaccion":"2024-01-12 10:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000276",
+        "cliente_id":"C0065",
+        "producto_id":"P03",
+        "monto":4657.12,
+        "fecha_transaccion":"2024-01-12 11:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000277",
+        "cliente_id":"C0059",
+        "producto_id":"P03",
+        "monto":4133.33,
+        "fecha_transaccion":"2024-01-12 12:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000278",
+        "cliente_id":"C0056",
+        "producto_id":"P03",
+        "monto":199.01,
+        "fecha_transaccion":"2024-01-12 13:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000279",
+        "cliente_id":"C0054",
+        "producto_id":"P03",
+        "monto":781.7,
+        "fecha_transaccion":"2024-01-12 14:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000280",
+        "cliente_id":"C0003",
+        "producto_id":"P02",
+        "monto":4627.16,
+        "fecha_transaccion":"2024-01-12 15:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000281",
+        "cliente_id":"C0067",
+        "producto_id":"P03",
+        "monto":3113.05,
+        "fecha_transaccion":"2024-01-12 16:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000282",
+        "cliente_id":"C0100",
+        "producto_id":"P02",
+        "monto":4974.0,
+        "fecha_transaccion":"2024-01-12 17:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000283",
+        "cliente_id":"C0031",
+        "producto_id":"P03",
+        "monto":390.8,
+        "fecha_transaccion":"2024-01-12 18:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000284",
+        "cliente_id":"C0084",
+        "producto_id":"P03",
+        "monto":1680.27,
+        "fecha_transaccion":"2024-01-12 19:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000285",
+        "cliente_id":"C0012",
+        "producto_id":"P02",
+        "monto":2906.95,
+        "fecha_transaccion":"2024-01-12 20:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000286",
+        "cliente_id":"C0036",
+        "producto_id":"P01",
+        "monto":4345.65,
+        "fecha_transaccion":"2024-01-12 21:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000287",
+        "cliente_id":"C0014",
+        "producto_id":"P02",
+        "monto":4276.71,
+        "fecha_transaccion":"2024-01-12 22:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000288",
+        "cliente_id":"C0042",
+        "producto_id":"P02",
+        "monto":4665.29,
+        "fecha_transaccion":"2024-01-12 23:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000289",
+        "cliente_id":"C0037",
+        "producto_id":"P03",
+        "monto":4627.94,
+        "fecha_transaccion":"2024-01-13 00:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000290",
+        "cliente_id":"C0032",
+        "producto_id":"P03",
+        "monto":984.09,
+        "fecha_transaccion":"2024-01-13 01:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000291",
+        "cliente_id":"C0023",
+        "producto_id":"P01",
+        "monto":3211.4,
+        "fecha_transaccion":"2024-01-13 02:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000292",
+        "cliente_id":"C0080",
+        "producto_id":"P01",
+        "monto":3959.01,
+        "fecha_transaccion":"2024-01-13 03:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000293",
+        "cliente_id":"C0028",
+        "producto_id":"P02",
+        "monto":48.72,
+        "fecha_transaccion":"2024-01-13 04:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000294",
+        "cliente_id":"C0044",
+        "producto_id":"P01",
+        "monto":3351.17,
+        "fecha_transaccion":"2024-01-13 05:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000295",
+        "cliente_id":"C0014",
+        "producto_id":"P02",
+        "monto":774.88,
+        "fecha_transaccion":"2024-01-13 06:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000296",
+        "cliente_id":"C0030",
+        "producto_id":"P02",
+        "monto":3139.5,
+        "fecha_transaccion":"2024-01-13 07:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000297",
+        "cliente_id":"C0022",
+        "producto_id":"P02",
+        "monto":146.03,
+        "fecha_transaccion":"2024-01-13 08:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000298",
+        "cliente_id":"C0023",
+        "producto_id":"P02",
+        "monto":1036.54,
+        "fecha_transaccion":"2024-01-13 09:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000299",
+        "cliente_id":"C0075",
+        "producto_id":"P03",
+        "monto":3845.48,
+        "fecha_transaccion":"2024-01-13 10:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000300",
+        "cliente_id":"C0047",
+        "producto_id":"P01",
+        "monto":3412.44,
+        "fecha_transaccion":"2024-01-13 11:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000301",
+        "cliente_id":"C0044",
+        "producto_id":"P03",
+        "monto":3328.68,
+        "fecha_transaccion":"2024-01-13 12:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000302",
+        "cliente_id":"C0036",
+        "producto_id":"P01",
+        "monto":3151.76,
+        "fecha_transaccion":"2024-01-13 13:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000303",
+        "cliente_id":"C0021",
+        "producto_id":"P03",
+        "monto":2370.26,
+        "fecha_transaccion":"2024-01-13 14:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000304",
+        "cliente_id":"C0061",
+        "producto_id":"P01",
+        "monto":1448.89,
+        "fecha_transaccion":"2024-01-13 15:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000305",
+        "cliente_id":"C0095",
+        "producto_id":"P03",
+        "monto":3209.3,
+        "fecha_transaccion":"2024-01-13 16:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000306",
+        "cliente_id":"C0003",
+        "producto_id":"P03",
+        "monto":897.97,
+        "fecha_transaccion":"2024-01-13 17:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000307",
+        "cliente_id":"C0066",
+        "producto_id":"P03",
+        "monto":2647.09,
+        "fecha_transaccion":"2024-01-13 18:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000308",
+        "cliente_id":"C0035",
+        "producto_id":"P02",
+        "monto":1683.06,
+        "fecha_transaccion":"2024-01-13 19:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000309",
+        "cliente_id":"C0033",
+        "producto_id":"P02",
+        "monto":931.12,
+        "fecha_transaccion":"2024-01-13 20:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000310",
+        "cliente_id":"C0041",
+        "producto_id":"P03",
+        "monto":4257.18,
+        "fecha_transaccion":"2024-01-13 21:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000311",
+        "cliente_id":"C0016",
+        "producto_id":"P03",
+        "monto":40.91,
+        "fecha_transaccion":"2024-01-13 22:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000312",
+        "cliente_id":"C0061",
+        "producto_id":"P02",
+        "monto":3935.34,
+        "fecha_transaccion":"2024-01-13 23:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000313",
+        "cliente_id":"C0017",
+        "producto_id":"P01",
+        "monto":4646.42,
+        "fecha_transaccion":"2024-01-14 00:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000314",
+        "cliente_id":"C0064",
+        "producto_id":"P03",
+        "monto":1293.08,
+        "fecha_transaccion":"2024-01-14 01:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000315",
+        "cliente_id":"C0042",
+        "producto_id":"P02",
+        "monto":4792.21,
+        "fecha_transaccion":"2024-01-14 02:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000316",
+        "cliente_id":"C0057",
+        "producto_id":"P03",
+        "monto":2593.22,
+        "fecha_transaccion":"2024-01-14 03:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000317",
+        "cliente_id":"C0066",
+        "producto_id":"P01",
+        "monto":1688.76,
+        "fecha_transaccion":"2024-01-14 04:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000318",
+        "cliente_id":"C0069",
+        "producto_id":"P03",
+        "monto":616.25,
+        "fecha_transaccion":"2024-01-14 05:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000319",
+        "cliente_id":"C0006",
+        "producto_id":"P03",
+        "monto":3144.29,
+        "fecha_transaccion":"2024-01-14 06:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000320",
+        "cliente_id":"C0001",
+        "producto_id":"P02",
+        "monto":3641.69,
+        "fecha_transaccion":"2024-01-14 07:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000321",
+        "cliente_id":"C0094",
+        "producto_id":"P01",
+        "monto":3936.05,
+        "fecha_transaccion":"2024-01-14 08:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000322",
+        "cliente_id":"C0057",
+        "producto_id":"P03",
+        "monto":2851.85,
+        "fecha_transaccion":"2024-01-14 09:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000323",
+        "cliente_id":"C0028",
+        "producto_id":"P02",
+        "monto":2197.11,
+        "fecha_transaccion":"2024-01-14 10:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000324",
+        "cliente_id":"C0056",
+        "producto_id":"P01",
+        "monto":1619.72,
+        "fecha_transaccion":"2024-01-14 11:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000325",
+        "cliente_id":"C0053",
+        "producto_id":"P01",
+        "monto":2830.87,
+        "fecha_transaccion":"2024-01-14 12:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000326",
+        "cliente_id":"C0060",
+        "producto_id":"P01",
+        "monto":1113.29,
+        "fecha_transaccion":"2024-01-14 13:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000327",
+        "cliente_id":"C0002",
+        "producto_id":"P01",
+        "monto":3686.53,
+        "fecha_transaccion":"2024-01-14 14:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000328",
+        "cliente_id":"C0090",
+        "producto_id":"P01",
+        "monto":4433.94,
+        "fecha_transaccion":"2024-01-14 15:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000329",
+        "cliente_id":"C0013",
+        "producto_id":"P02",
+        "monto":208.68,
+        "fecha_transaccion":"2024-01-14 16:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000330",
+        "cliente_id":"C0017",
+        "producto_id":"P01",
+        "monto":4616.7,
+        "fecha_transaccion":"2024-01-14 17:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000331",
+        "cliente_id":"C0022",
+        "producto_id":"P01",
+        "monto":2548.85,
+        "fecha_transaccion":"2024-01-14 18:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000332",
+        "cliente_id":"C0029",
+        "producto_id":"P03",
+        "monto":2804.32,
+        "fecha_transaccion":"2024-01-14 19:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000333",
+        "cliente_id":"C0082",
+        "producto_id":"P02",
+        "monto":1754.36,
+        "fecha_transaccion":"2024-01-14 20:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000334",
+        "cliente_id":"C0081",
+        "producto_id":"P02",
+        "monto":3612.4,
+        "fecha_transaccion":"2024-01-14 21:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000335",
+        "cliente_id":"C0045",
+        "producto_id":"P03",
+        "monto":428.96,
+        "fecha_transaccion":"2024-01-14 22:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000336",
+        "cliente_id":"C0030",
+        "producto_id":"P03",
+        "monto":4602.48,
+        "fecha_transaccion":"2024-01-14 23:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000337",
+        "cliente_id":"C0040",
+        "producto_id":"P01",
+        "monto":848.7,
+        "fecha_transaccion":"2024-01-15 00:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000338",
+        "cliente_id":"C0013",
+        "producto_id":"P01",
+        "monto":1725.94,
+        "fecha_transaccion":"2024-01-15 01:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000339",
+        "cliente_id":"C0086",
+        "producto_id":"P01",
+        "monto":2975.12,
+        "fecha_transaccion":"2024-01-15 02:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000340",
+        "cliente_id":"C0015",
+        "producto_id":"P02",
+        "monto":4112.35,
+        "fecha_transaccion":"2024-01-15 03:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000341",
+        "cliente_id":"C0048",
+        "producto_id":"P01",
+        "monto":3719.7,
+        "fecha_transaccion":"2024-01-15 04:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000342",
+        "cliente_id":"C0078",
+        "producto_id":"P03",
+        "monto":702.26,
+        "fecha_transaccion":"2024-01-15 05:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000343",
+        "cliente_id":"C0088",
+        "producto_id":"P03",
+        "monto":2850.53,
+        "fecha_transaccion":"2024-01-15 06:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000344",
+        "cliente_id":"C0040",
+        "producto_id":"P02",
+        "monto":1913.36,
+        "fecha_transaccion":"2024-01-15 07:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000345",
+        "cliente_id":"C0015",
+        "producto_id":"P03",
+        "monto":726.42,
+        "fecha_transaccion":"2024-01-15 08:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000346",
+        "cliente_id":"C0040",
+        "producto_id":"P02",
+        "monto":343.45,
+        "fecha_transaccion":"2024-01-15 09:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000347",
+        "cliente_id":"C0034",
+        "producto_id":"P02",
+        "monto":530.4,
+        "fecha_transaccion":"2024-01-15 10:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000348",
+        "cliente_id":"C0087",
+        "producto_id":"P01",
+        "monto":1551.38,
+        "fecha_transaccion":"2024-01-15 11:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000349",
+        "cliente_id":"C0018",
+        "producto_id":"P03",
+        "monto":1359.76,
+        "fecha_transaccion":"2024-01-15 12:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000350",
+        "cliente_id":"C0033",
+        "producto_id":"P01",
+        "monto":2568.07,
+        "fecha_transaccion":"2024-01-15 13:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000351",
+        "cliente_id":"C0023",
+        "producto_id":"P03",
+        "monto":4801.7,
+        "fecha_transaccion":"2024-01-15 14:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000352",
+        "cliente_id":"C0057",
+        "producto_id":"P02",
+        "monto":3862.49,
+        "fecha_transaccion":"2024-01-15 15:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000353",
+        "cliente_id":"C0025",
+        "producto_id":"P01",
+        "monto":3736.88,
+        "fecha_transaccion":"2024-01-15 16:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000354",
+        "cliente_id":"C0003",
+        "producto_id":"P02",
+        "monto":3666.7,
+        "fecha_transaccion":"2024-01-15 17:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000355",
+        "cliente_id":"C0007",
+        "producto_id":"P01",
+        "monto":4582.81,
+        "fecha_transaccion":"2024-01-15 18:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000356",
+        "cliente_id":"C0035",
+        "producto_id":"P02",
+        "monto":2222.44,
+        "fecha_transaccion":"2024-01-15 19:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000357",
+        "cliente_id":"C0005",
+        "producto_id":"P01",
+        "monto":1629.81,
+        "fecha_transaccion":"2024-01-15 20:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000358",
+        "cliente_id":"C0015",
+        "producto_id":"P02",
+        "monto":4580.6,
+        "fecha_transaccion":"2024-01-15 21:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000359",
+        "cliente_id":"C0076",
+        "producto_id":"P02",
+        "monto":1974.06,
+        "fecha_transaccion":"2024-01-15 22:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000360",
+        "cliente_id":"C0020",
+        "producto_id":"P02",
+        "monto":1734.98,
+        "fecha_transaccion":"2024-01-15 23:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000361",
+        "cliente_id":"C0047",
+        "producto_id":"P01",
+        "monto":364.19,
+        "fecha_transaccion":"2024-01-16 00:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000362",
+        "cliente_id":"C0010",
+        "producto_id":"P03",
+        "monto":4009.53,
+        "fecha_transaccion":"2024-01-16 01:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000363",
+        "cliente_id":"C0004",
+        "producto_id":"P02",
+        "monto":3413.1,
+        "fecha_transaccion":"2024-01-16 02:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000364",
+        "cliente_id":"C0009",
+        "producto_id":"P02",
+        "monto":876.84,
+        "fecha_transaccion":"2024-01-16 03:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000365",
+        "cliente_id":"C0036",
+        "producto_id":"P01",
+        "monto":3028.53,
+        "fecha_transaccion":"2024-01-16 04:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000366",
+        "cliente_id":"C0021",
+        "producto_id":"P03",
+        "monto":51.22,
+        "fecha_transaccion":"2024-01-16 05:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000367",
+        "cliente_id":"C0058",
+        "producto_id":"P03",
+        "monto":3189.93,
+        "fecha_transaccion":"2024-01-16 06:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000368",
+        "cliente_id":"C0027",
+        "producto_id":"P03",
+        "monto":46.29,
+        "fecha_transaccion":"2024-01-16 07:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000369",
+        "cliente_id":"C0039",
+        "producto_id":"P01",
+        "monto":4820.57,
+        "fecha_transaccion":"2024-01-16 08:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000370",
+        "cliente_id":"C0058",
+        "producto_id":"P03",
+        "monto":1966.9,
+        "fecha_transaccion":"2024-01-16 09:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000371",
+        "cliente_id":"C0023",
+        "producto_id":"P02",
+        "monto":1550.02,
+        "fecha_transaccion":"2024-01-16 10:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000372",
+        "cliente_id":"C0075",
+        "producto_id":"P03",
+        "monto":2548.88,
+        "fecha_transaccion":"2024-01-16 11:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000373",
+        "cliente_id":"C0039",
+        "producto_id":"P02",
+        "monto":2555.38,
+        "fecha_transaccion":"2024-01-16 12:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000374",
+        "cliente_id":"C0045",
+        "producto_id":"P01",
+        "monto":3537.99,
+        "fecha_transaccion":"2024-01-16 13:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000375",
+        "cliente_id":"C0065",
+        "producto_id":"P03",
+        "monto":4274.09,
+        "fecha_transaccion":"2024-01-16 14:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000376",
+        "cliente_id":"C0086",
+        "producto_id":"P03",
+        "monto":4418.74,
+        "fecha_transaccion":"2024-01-16 15:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000377",
+        "cliente_id":"C0053",
+        "producto_id":"P02",
+        "monto":50.45,
+        "fecha_transaccion":"2024-01-16 16:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000378",
+        "cliente_id":"C0009",
+        "producto_id":"P03",
+        "monto":3410.07,
+        "fecha_transaccion":"2024-01-16 17:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000379",
+        "cliente_id":"C0063",
+        "producto_id":"P03",
+        "monto":3994.67,
+        "fecha_transaccion":"2024-01-16 18:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000380",
+        "cliente_id":"C0071",
+        "producto_id":"P03",
+        "monto":20.69,
+        "fecha_transaccion":"2024-01-16 19:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000381",
+        "cliente_id":"C0078",
+        "producto_id":"P03",
+        "monto":483.66,
+        "fecha_transaccion":"2024-01-16 20:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000382",
+        "cliente_id":"C0078",
+        "producto_id":"P02",
+        "monto":2449.26,
+        "fecha_transaccion":"2024-01-16 21:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000383",
+        "cliente_id":"C0069",
+        "producto_id":"P02",
+        "monto":1946.07,
+        "fecha_transaccion":"2024-01-16 22:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000384",
+        "cliente_id":"C0074",
+        "producto_id":"P01",
+        "monto":4619.73,
+        "fecha_transaccion":"2024-01-16 23:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000385",
+        "cliente_id":"C0033",
+        "producto_id":"P03",
+        "monto":3245.6,
+        "fecha_transaccion":"2024-01-17 00:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000386",
+        "cliente_id":"C0016",
+        "producto_id":"P03",
+        "monto":1588.86,
+        "fecha_transaccion":"2024-01-17 01:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000387",
+        "cliente_id":"C0014",
+        "producto_id":"P02",
+        "monto":231.81,
+        "fecha_transaccion":"2024-01-17 02:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000388",
+        "cliente_id":"C0036",
+        "producto_id":"P02",
+        "monto":3970.71,
+        "fecha_transaccion":"2024-01-17 03:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000389",
+        "cliente_id":"C0099",
+        "producto_id":"P01",
+        "monto":1654.27,
+        "fecha_transaccion":"2024-01-17 04:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000390",
+        "cliente_id":"C0056",
+        "producto_id":"P03",
+        "monto":3397.54,
+        "fecha_transaccion":"2024-01-17 05:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000391",
+        "cliente_id":"C0100",
+        "producto_id":"P02",
+        "monto":3624.39,
+        "fecha_transaccion":"2024-01-17 06:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000392",
+        "cliente_id":"C0015",
+        "producto_id":"P02",
+        "monto":1150.9,
+        "fecha_transaccion":"2024-01-17 07:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000393",
+        "cliente_id":"C0055",
+        "producto_id":"P02",
+        "monto":3291.05,
+        "fecha_transaccion":"2024-01-17 08:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000394",
+        "cliente_id":"C0021",
+        "producto_id":"P01",
+        "monto":47.24,
+        "fecha_transaccion":"2024-01-17 09:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000395",
+        "cliente_id":"C0011",
+        "producto_id":"P03",
+        "monto":4037.42,
+        "fecha_transaccion":"2024-01-17 10:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000396",
+        "cliente_id":"C0024",
+        "producto_id":"P01",
+        "monto":2260.2,
+        "fecha_transaccion":"2024-01-17 11:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000397",
+        "cliente_id":"C0053",
+        "producto_id":"P03",
+        "monto":2733.64,
+        "fecha_transaccion":"2024-01-17 12:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000398",
+        "cliente_id":"C0098",
+        "producto_id":"P03",
+        "monto":4772.34,
+        "fecha_transaccion":"2024-01-17 13:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000399",
+        "cliente_id":"C0066",
+        "producto_id":"P01",
+        "monto":3884.83,
+        "fecha_transaccion":"2024-01-17 14:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000400",
+        "cliente_id":"C0066",
+        "producto_id":"P01",
+        "monto":871.93,
+        "fecha_transaccion":"2024-01-17 15:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000401",
+        "cliente_id":"C0044",
+        "producto_id":"P03",
+        "monto":3053.81,
+        "fecha_transaccion":"2024-01-17 16:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000402",
+        "cliente_id":"C0069",
+        "producto_id":"P01",
+        "monto":1729.98,
+        "fecha_transaccion":"2024-01-17 17:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000403",
+        "cliente_id":"C0029",
+        "producto_id":"P03",
+        "monto":217.01,
+        "fecha_transaccion":"2024-01-17 18:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000404",
+        "cliente_id":"C0093",
+        "producto_id":"P03",
+        "monto":4166.04,
+        "fecha_transaccion":"2024-01-17 19:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000405",
+        "cliente_id":"C0041",
+        "producto_id":"P02",
+        "monto":4624.75,
+        "fecha_transaccion":"2024-01-17 20:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000406",
+        "cliente_id":"C0079",
+        "producto_id":"P02",
+        "monto":3778.5,
+        "fecha_transaccion":"2024-01-17 21:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000407",
+        "cliente_id":"C0061",
+        "producto_id":"P01",
+        "monto":3021.07,
+        "fecha_transaccion":"2024-01-17 22:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000408",
+        "cliente_id":"C0007",
+        "producto_id":"P01",
+        "monto":4244.63,
+        "fecha_transaccion":"2024-01-17 23:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000409",
+        "cliente_id":"C0045",
+        "producto_id":"P02",
+        "monto":855.59,
+        "fecha_transaccion":"2024-01-18 00:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000410",
+        "cliente_id":"C0064",
+        "producto_id":"P03",
+        "monto":1781.61,
+        "fecha_transaccion":"2024-01-18 01:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000411",
+        "cliente_id":"C0050",
+        "producto_id":"P02",
+        "monto":1078.42,
+        "fecha_transaccion":"2024-01-18 02:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000412",
+        "cliente_id":"C0026",
+        "producto_id":"P01",
+        "monto":3063.85,
+        "fecha_transaccion":"2024-01-18 03:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000413",
+        "cliente_id":"C0043",
+        "producto_id":"P03",
+        "monto":4603.84,
+        "fecha_transaccion":"2024-01-18 04:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000414",
+        "cliente_id":"C0094",
+        "producto_id":"P02",
+        "monto":2123.15,
+        "fecha_transaccion":"2024-01-18 05:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000415",
+        "cliente_id":"C0043",
+        "producto_id":"P02",
+        "monto":3029.56,
+        "fecha_transaccion":"2024-01-18 06:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000416",
+        "cliente_id":"C0091",
+        "producto_id":"P03",
+        "monto":1105.49,
+        "fecha_transaccion":"2024-01-18 07:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000417",
+        "cliente_id":"C0001",
+        "producto_id":"P02",
+        "monto":3303.99,
+        "fecha_transaccion":"2024-01-18 08:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000418",
+        "cliente_id":"C0051",
+        "producto_id":"P03",
+        "monto":2603.34,
+        "fecha_transaccion":"2024-01-18 09:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000419",
+        "cliente_id":"C0077",
+        "producto_id":"P03",
+        "monto":971.56,
+        "fecha_transaccion":"2024-01-18 10:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000420",
+        "cliente_id":"C0068",
+        "producto_id":"P01",
+        "monto":869.06,
+        "fecha_transaccion":"2024-01-18 11:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000421",
+        "cliente_id":"C0010",
+        "producto_id":"P02",
+        "monto":3564.12,
+        "fecha_transaccion":"2024-01-18 12:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000422",
+        "cliente_id":"C0066",
+        "producto_id":"P01",
+        "monto":2622.36,
+        "fecha_transaccion":"2024-01-18 13:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000423",
+        "cliente_id":"C0017",
+        "producto_id":"P01",
+        "monto":1734.77,
+        "fecha_transaccion":"2024-01-18 14:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000424",
+        "cliente_id":"C0065",
+        "producto_id":"P01",
+        "monto":2929.04,
+        "fecha_transaccion":"2024-01-18 15:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000425",
+        "cliente_id":"C0100",
+        "producto_id":"P03",
+        "monto":1631.16,
+        "fecha_transaccion":"2024-01-18 16:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000426",
+        "cliente_id":"C0041",
+        "producto_id":"P03",
+        "monto":2704.22,
+        "fecha_transaccion":"2024-01-18 17:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000427",
+        "cliente_id":"C0010",
+        "producto_id":"P01",
+        "monto":2465.58,
+        "fecha_transaccion":"2024-01-18 18:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000428",
+        "cliente_id":"C0009",
+        "producto_id":"P01",
+        "monto":2650.53,
+        "fecha_transaccion":"2024-01-18 19:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000429",
+        "cliente_id":"C0040",
+        "producto_id":"P02",
+        "monto":3495.07,
+        "fecha_transaccion":"2024-01-18 20:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000430",
+        "cliente_id":"C0084",
+        "producto_id":"P03",
+        "monto":454.32,
+        "fecha_transaccion":"2024-01-18 21:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000431",
+        "cliente_id":"C0030",
+        "producto_id":"P02",
+        "monto":290.65,
+        "fecha_transaccion":"2024-01-18 22:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000432",
+        "cliente_id":"C0053",
+        "producto_id":"P02",
+        "monto":594.62,
+        "fecha_transaccion":"2024-01-18 23:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000433",
+        "cliente_id":"C0036",
+        "producto_id":"P02",
+        "monto":2467.98,
+        "fecha_transaccion":"2024-01-19 00:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000434",
+        "cliente_id":"C0054",
+        "producto_id":"P02",
+        "monto":2307.11,
+        "fecha_transaccion":"2024-01-19 01:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000435",
+        "cliente_id":"C0023",
+        "producto_id":"P01",
+        "monto":3439.56,
+        "fecha_transaccion":"2024-01-19 02:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000436",
+        "cliente_id":"C0093",
+        "producto_id":"P01",
+        "monto":642.05,
+        "fecha_transaccion":"2024-01-19 03:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000437",
+        "cliente_id":"C0071",
+        "producto_id":"P02",
+        "monto":4251.13,
+        "fecha_transaccion":"2024-01-19 04:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000438",
+        "cliente_id":"C0072",
+        "producto_id":"P03",
+        "monto":452.74,
+        "fecha_transaccion":"2024-01-19 05:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000439",
+        "cliente_id":"C0006",
+        "producto_id":"P02",
+        "monto":1482.25,
+        "fecha_transaccion":"2024-01-19 06:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000440",
+        "cliente_id":"C0090",
+        "producto_id":"P03",
+        "monto":1352.75,
+        "fecha_transaccion":"2024-01-19 07:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000441",
+        "cliente_id":"C0017",
+        "producto_id":"P03",
+        "monto":1808.18,
+        "fecha_transaccion":"2024-01-19 08:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000442",
+        "cliente_id":"C0016",
+        "producto_id":"P03",
+        "monto":107.25,
+        "fecha_transaccion":"2024-01-19 09:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000443",
+        "cliente_id":"C0040",
+        "producto_id":"P03",
+        "monto":3341.68,
+        "fecha_transaccion":"2024-01-19 10:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000444",
+        "cliente_id":"C0061",
+        "producto_id":"P03",
+        "monto":1948.17,
+        "fecha_transaccion":"2024-01-19 11:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000445",
+        "cliente_id":"C0049",
+        "producto_id":"P01",
+        "monto":763.52,
+        "fecha_transaccion":"2024-01-19 12:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000446",
+        "cliente_id":"C0030",
+        "producto_id":"P03",
+        "monto":3406.85,
+        "fecha_transaccion":"2024-01-19 13:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000447",
+        "cliente_id":"C0077",
+        "producto_id":"P01",
+        "monto":3316.95,
+        "fecha_transaccion":"2024-01-19 14:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000448",
+        "cliente_id":"C0065",
+        "producto_id":"P03",
+        "monto":2980.69,
+        "fecha_transaccion":"2024-01-19 15:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000449",
+        "cliente_id":"C0004",
+        "producto_id":"P03",
+        "monto":4446.72,
+        "fecha_transaccion":"2024-01-19 16:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000450",
+        "cliente_id":"C0003",
+        "producto_id":"P01",
+        "monto":71.24,
+        "fecha_transaccion":"2024-01-19 17:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000451",
+        "cliente_id":"C0064",
+        "producto_id":"P01",
+        "monto":3175.9,
+        "fecha_transaccion":"2024-01-19 18:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000452",
+        "cliente_id":"C0059",
+        "producto_id":"P02",
+        "monto":3841.25,
+        "fecha_transaccion":"2024-01-19 19:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000453",
+        "cliente_id":"C0025",
+        "producto_id":"P01",
+        "monto":3009.57,
+        "fecha_transaccion":"2024-01-19 20:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000454",
+        "cliente_id":"C0059",
+        "producto_id":"P03",
+        "monto":3025.81,
+        "fecha_transaccion":"2024-01-19 21:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000455",
+        "cliente_id":"C0061",
+        "producto_id":"P02",
+        "monto":4038.35,
+        "fecha_transaccion":"2024-01-19 22:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000456",
+        "cliente_id":"C0093",
+        "producto_id":"P03",
+        "monto":3898.8,
+        "fecha_transaccion":"2024-01-19 23:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000457",
+        "cliente_id":"C0005",
+        "producto_id":"P02",
+        "monto":4660.4,
+        "fecha_transaccion":"2024-01-20 00:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000458",
+        "cliente_id":"C0032",
+        "producto_id":"P03",
+        "monto":2445.36,
+        "fecha_transaccion":"2024-01-20 01:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000459",
+        "cliente_id":"C0054",
+        "producto_id":"P02",
+        "monto":3400.34,
+        "fecha_transaccion":"2024-01-20 02:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000460",
+        "cliente_id":"C0025",
+        "producto_id":"P02",
+        "monto":3168.39,
+        "fecha_transaccion":"2024-01-20 03:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000461",
+        "cliente_id":"C0019",
+        "producto_id":"P03",
+        "monto":4027.81,
+        "fecha_transaccion":"2024-01-20 04:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000462",
+        "cliente_id":"C0091",
+        "producto_id":"P03",
+        "monto":4853.86,
+        "fecha_transaccion":"2024-01-20 05:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000463",
+        "cliente_id":"C0036",
+        "producto_id":"P01",
+        "monto":4475.9,
+        "fecha_transaccion":"2024-01-20 06:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000464",
+        "cliente_id":"C0100",
+        "producto_id":"P03",
+        "monto":616.74,
+        "fecha_transaccion":"2024-01-20 07:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000465",
+        "cliente_id":"C0061",
+        "producto_id":"P01",
+        "monto":2708.39,
+        "fecha_transaccion":"2024-01-20 08:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000466",
+        "cliente_id":"C0017",
+        "producto_id":"P02",
+        "monto":4097.69,
+        "fecha_transaccion":"2024-01-20 09:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000467",
+        "cliente_id":"C0027",
+        "producto_id":"P01",
+        "monto":1637.42,
+        "fecha_transaccion":"2024-01-20 10:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000468",
+        "cliente_id":"C0064",
+        "producto_id":"P01",
+        "monto":3781.65,
+        "fecha_transaccion":"2024-01-20 11:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000469",
+        "cliente_id":"C0081",
+        "producto_id":"P01",
+        "monto":3882.76,
+        "fecha_transaccion":"2024-01-20 12:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000470",
+        "cliente_id":"C0046",
+        "producto_id":"P02",
+        "monto":3185.64,
+        "fecha_transaccion":"2024-01-20 13:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000471",
+        "cliente_id":"C0083",
+        "producto_id":"P03",
+        "monto":1752.7,
+        "fecha_transaccion":"2024-01-20 14:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000472",
+        "cliente_id":"C0040",
+        "producto_id":"P01",
+        "monto":4058.11,
+        "fecha_transaccion":"2024-01-20 15:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000473",
+        "cliente_id":"C0094",
+        "producto_id":"P01",
+        "monto":1010.17,
+        "fecha_transaccion":"2024-01-20 16:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000474",
+        "cliente_id":"C0027",
+        "producto_id":"P02",
+        "monto":3896.94,
+        "fecha_transaccion":"2024-01-20 17:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000475",
+        "cliente_id":"C0028",
+        "producto_id":"P03",
+        "monto":364.7,
+        "fecha_transaccion":"2024-01-20 18:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000476",
+        "cliente_id":"C0061",
+        "producto_id":"P01",
+        "monto":1726.33,
+        "fecha_transaccion":"2024-01-20 19:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000477",
+        "cliente_id":"C0029",
+        "producto_id":"P02",
+        "monto":3013.67,
+        "fecha_transaccion":"2024-01-20 20:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000478",
+        "cliente_id":"C0001",
+        "producto_id":"P01",
+        "monto":2905.59,
+        "fecha_transaccion":"2024-01-20 21:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000479",
+        "cliente_id":"C0018",
+        "producto_id":"P01",
+        "monto":1382.56,
+        "fecha_transaccion":"2024-01-20 22:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000480",
+        "cliente_id":"C0097",
+        "producto_id":"P01",
+        "monto":4393.26,
+        "fecha_transaccion":"2024-01-20 23:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000481",
+        "cliente_id":"C0022",
+        "producto_id":"P02",
+        "monto":150.2,
+        "fecha_transaccion":"2024-01-21 00:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000482",
+        "cliente_id":"C0008",
+        "producto_id":"P02",
+        "monto":1667.79,
+        "fecha_transaccion":"2024-01-21 01:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000483",
+        "cliente_id":"C0057",
+        "producto_id":"P01",
+        "monto":1106.61,
+        "fecha_transaccion":"2024-01-21 02:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000484",
+        "cliente_id":"C0096",
+        "producto_id":"P01",
+        "monto":1717.56,
+        "fecha_transaccion":"2024-01-21 03:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000485",
+        "cliente_id":"C0023",
+        "producto_id":"P01",
+        "monto":229.64,
+        "fecha_transaccion":"2024-01-21 04:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000486",
+        "cliente_id":"C0017",
+        "producto_id":"P02",
+        "monto":2399.14,
+        "fecha_transaccion":"2024-01-21 05:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000487",
+        "cliente_id":"C0016",
+        "producto_id":"P01",
+        "monto":697.13,
+        "fecha_transaccion":"2024-01-21 06:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000488",
+        "cliente_id":"C0024",
+        "producto_id":"P03",
+        "monto":1707.33,
+        "fecha_transaccion":"2024-01-21 07:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000489",
+        "cliente_id":"C0047",
+        "producto_id":"P03",
+        "monto":3490.91,
+        "fecha_transaccion":"2024-01-21 08:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000490",
+        "cliente_id":"C0011",
+        "producto_id":"P02",
+        "monto":1850.39,
+        "fecha_transaccion":"2024-01-21 09:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000491",
+        "cliente_id":"C0034",
+        "producto_id":"P02",
+        "monto":4156.9,
+        "fecha_transaccion":"2024-01-21 10:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000492",
+        "cliente_id":"C0059",
+        "producto_id":"P03",
+        "monto":2718.44,
+        "fecha_transaccion":"2024-01-21 11:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000493",
+        "cliente_id":"C0045",
+        "producto_id":"P03",
+        "monto":3827.1,
+        "fecha_transaccion":"2024-01-21 12:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000494",
+        "cliente_id":"C0005",
+        "producto_id":"P01",
+        "monto":4359.61,
+        "fecha_transaccion":"2024-01-21 13:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000495",
+        "cliente_id":"C0086",
+        "producto_id":"P03",
+        "monto":2001.57,
+        "fecha_transaccion":"2024-01-21 14:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000496",
+        "cliente_id":"C0022",
+        "producto_id":"P03",
+        "monto":4692.39,
+        "fecha_transaccion":"2024-01-21 15:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000497",
+        "cliente_id":"C0027",
+        "producto_id":"P01",
+        "monto":4071.39,
+        "fecha_transaccion":"2024-01-21 16:00:00",
+        "tipo_movimiento":"SALIDA"
+    },
+    {
+        "transaccion_id":"TX000498",
+        "cliente_id":"C0080",
+        "producto_id":"P01",
+        "monto":3108.63,
+        "fecha_transaccion":"2024-01-21 17:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000499",
+        "cliente_id":"C0030",
+        "producto_id":"P03",
+        "monto":2551.28,
+        "fecha_transaccion":"2024-01-21 18:00:00",
+        "tipo_movimiento":"ENTRADA"
+    },
+    {
+        "transaccion_id":"TX000500",
+        "cliente_id":"C0063",
+        "producto_id":"P02",
+        "monto":3585.58,
+        "fecha_transaccion":"2024-01-21 19:00:00",
+        "tipo_movimiento":"ENTRADA"
+    }
+]

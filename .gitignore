@@ -1,0 +1,29 @@
+# Seguridad (NUNCA SUBIR ESTO)
+.env
+.env.local
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs y Reportes locales
+logs/
+data/error/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Datos (Opcional: en proyectos reales no se suben los datos, aquí subiremos raw para demo)
+# data/

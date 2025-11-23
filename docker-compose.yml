@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  # SERVICIO 1: La Base de Datos
+  db:
+    image: postgres:15-alpine
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=admin
+      - POSTGRES_DB=financiero_db
+    ports:
+      - "5433:5432" # Mapeamos al puerto 5433 de tu PC para no chocar con el que ya tienes instalado
+
+  # SERVICIO 2: Tu Aplicación Python (ETL + Dashboard)
+  etl-app:
+    build: .
+    ports:
+      - "8501:8501"
+    depends_on:
+      - db
+    environment:
+      # Sobrescribimos las variables del .env para que funcionen dentro de Docker
+      - DB_HOST=db  # En Docker, el host es el nombre del servicio
+      - DB_PORT=5432
+      - DB_NAME=financiero_db
+      - DB_USER=postgres
+      - DB_PASSWORD=admin
+    volumes:
+      - ./data:/app/data  # Para ver los archivos generados en tu carpeta local
+      - ./logs:/app/logs  # Para ver los logs en tu carpeta local
+
+volumes:
+  postgres_data:
